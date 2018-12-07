@@ -1,0 +1,102 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\variants\\MXChip_AZ3166"
+  },
+  {
+    "Sourcefile": "c:\\Users\\SibeeshVenu\\SourceCode\\IoT Dashboard\\ml.IoTDashboard.Device\\Device\\.build\\sketch\\DevKitTranslator.ino.cpp",
+    "Include": "AudioClass.h",
+    "Includepath": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\SibeeshVenu\\SourceCode\\IoT Dashboard\\ml.IoTDashboard.Device\\Device\\.build\\sketch\\DevKitTranslator.ino.cpp",
+    "Include": "AZ3166WiFi.h",
+    "Includepath": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\SibeeshVenu\\SourceCode\\IoT Dashboard\\ml.IoTDashboard.Device\\Device\\.build\\sketch\\DevKitTranslator.ino.cpp",
+    "Include": "AzureIotHub.h",
+    "Includepath": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\AzureIoT\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\SibeeshVenu\\SourceCode\\IoT Dashboard\\ml.IoTDashboard.Device\\Device\\.build\\sketch\\DevKitTranslator.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src\\AudioClass.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src\\nau88c10.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src\\stm32412g_discovery.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src\\stm32412g_discovery_audio.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src\\stm32f4xx_hal_msp.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\Audio\\src\\stm32f4xx_it.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\WiFi\\src\\AZ3166WiFi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\WiFi\\src\\AZ3166WiFiClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\WiFi\\src\\AZ3166WiFiServer.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\WiFi\\src\\AZ3166WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\AzureIoT\\src\\AzureIotHub.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\AzureIoT\\src\\DevKitMQTTClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\AzureIoT\\src\\DevKitOTAUtils.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\SibeeshVenu\\AppData\\Local\\Arduino15\\packages\\AZ3166\\hardware\\stm32f4\\1.5.1\\libraries\\AzureIoT\\src\\DevkitDPSClient.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

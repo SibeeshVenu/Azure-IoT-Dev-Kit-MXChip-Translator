@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": "Device"
+        },
+        {
+            "path": "Functions"
+        }
+    ],
+    "settings": {
+        "IoTWorkbench.BoardId": "devkit",
+        "IoTWorkbench.DevicePath": "Device",
+        "IoTWorkbench.FunctionPath": "Functions",
+        "IoTWorkbench.iothubConnectionString": "HostName=ml-iot-dashboard-hub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=sab00MtDDry85yQ5ZWQXra6GELpgojmjH6qICtrqzH0=",
+        "IoTWorkbench.eventHubConnectionString": "Endpoint=sb://iothub-ns-ml-iot-das-1047368-b779b70d00.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=sab00MtDDry85yQ5ZWQXra6GELpgojmjH6qICtrqzH0=",
+        "IoTWorkbench.eventHubConnectionPath": "ml-iot-dashboard-hub",
+        "IoTWorkbench.iothubDeviceConnectionString": "HostName=ml-iot-dashboard-hub.azure-devices.net;DeviceId=ml-pf;SharedAccessKey=S36qwU0WqTPEiL4GYLll6wy4OazmRQkxhBuf4KsEKUE=",
+        "IoTWorkbench.functionAppId": "/subscriptions/f0062914-ee75-4737-babd-0825fbb3a68c/resourceGroups/mpnSibeeshVenu/providers/Microsoft.Web/sites/DeviceFunc"
+    }
+}

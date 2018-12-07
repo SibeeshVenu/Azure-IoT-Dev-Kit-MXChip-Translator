@@ -1,0 +1,1 @@
+#define AZURE_FUNCTION_URL "https://devicefunc.azurewebsites.net/api/devkit_translator?code=JyMArAJpGdLke8JlTkkKyocv9F5fgAmKyQnFEerbnbdGw9D91azaxA=="
